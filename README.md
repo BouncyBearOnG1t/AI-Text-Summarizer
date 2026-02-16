@@ -1,7 +1,7 @@
 <h1>AI Text Summarizer</h1>
 
 This project is a Streamlit-based web application designed for text summarization with a modern and visually appealing glassmorphic user interface.
-It provides users with the ability to input text, generate concise summaries, and download the results.
+It provides users with the ability to input text, generate concise summaries, and download the results. Demo - https://ai-text-summarizer-qq9wmybtgbaqqtb6cxvoct.streamlit.app/
 
 <h2>Features</h2>
 
